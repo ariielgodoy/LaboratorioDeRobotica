@@ -2,7 +2,7 @@
 ## Makefile generated for component 'ControlBC'. 
 ## 
 ## Makefile     : ControlBC.mk
-## Generated on : Sun Dec 15 22:24:01 2024
+## Generated on : Wed Jan 01 23:00:21 2025
 ## Final product: $(RELATIVE_PATH_TO_ANCHOR)/ControlBC.elf
 ## Product type : executable
 ## 
@@ -21,7 +21,7 @@ MAKEFILE                  = ControlBC.mk
 MATLAB_ROOT               = C:/PROGRA~1/MATLAB/R2023b
 MATLAB_BIN                = C:/PROGRA~1/MATLAB/R2023b/bin
 MATLAB_ARCH_BIN           = $(MATLAB_BIN)/win64
-START_DIR                 = C:/Users/juana/OneDrive/Desktop/Proyecto_LaboratoriodeRobotica/Seguimiento_Individual-ariielgodoy
+START_DIR                 = C:/Users/juana/OneDrive/Desktop/Proyecto_LaboratoriodeRobotica/Seguimiento_Individual-ariielgodoy/basura
 SOLVER                    = 
 SOLVER_OBJ                = 
 CLASSIC_INTERFACE         = 0
